@@ -1,0 +1,12 @@
+ "git": "git add --all && git commit -m",
+    "postgit": "git push --all"
+
+form.addEventListener("click", function(event){
+    event.preventDefault();
+    
+    console.log('on');
+  });
+
+
+yarn add jquery
+
