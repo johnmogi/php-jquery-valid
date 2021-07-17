@@ -7,13 +7,13 @@
 </head>
 <body>
     <form action="" method="post" id="form-1">
-    <input type="text" name="" id="" placeholder="First Name">
-    <button type="submit">Send</button>
+    <input type="text" name="" id="fName" placeholder="First Name">
+    <button type="submit" id="subBut">Send</button>
     </form>
 
     <footer>
-    <script src="/node_modules/jquery/dist/jquery.slim.min.js"></script>
-    <script src="index.js"></script>
+    <script src="/js/jquery.slim.min.js"></script>
+    <script src="/js/index.js"></script>
     </footer>
 </body>
 </html>

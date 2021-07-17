@@ -7,6 +7,9 @@ form.addEventListener("click", function(event){
     console.log('on');
   });
 
+ $(() => {});
+  $('#subBut').click(() => {});
+  
 
 yarn add jquery
 
