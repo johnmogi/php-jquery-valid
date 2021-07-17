@@ -9,7 +9,11 @@ form.addEventListener("click", function(event){
 
  $(() => {});
   $('#subBut').click(() => {});
-  
+
 
 yarn add jquery
+gitignore node modules failed- moving jquery slim in root js folder.
+
+
+yarn add bulma
 
